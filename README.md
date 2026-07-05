@@ -53,6 +53,18 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 ---
 
+## 📈 Contribution Journey
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafiullah-Najat&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Journey" />
+</p>
+
+<p align="center">
+  <i>🔥 Every commit is a step toward mastery</i>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

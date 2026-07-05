@@ -5,14 +5,14 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafiullah Najat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rafiullah-Najat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-##🚀 About Me
+###🚀 About Me
 
-#💻 Frontend Developer • ⚛️ React Developer
+*💻 Frontend Developer • ⚛️ React Developer
 
 * 🔭 Currently: Building modern, responsive web applications and improving UI/UX skills.
 * 💻 Tech Stack: Specialized in React.js, JavaScript (ES6+), Tailwind CSS, and modern frontend tools.
@@ -26,7 +26,8 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,swiper,react,git,github,npm,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,npm,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg" height="40"/>
 </p>
 
 ---
@@ -55,7 +56,7 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiullah Najat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiullah-Najat&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -77,14 +78,6 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 * Advanced React Patterns
 * Performance Optimization
 * Backend (Node.js)
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafiullah-Najat&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 

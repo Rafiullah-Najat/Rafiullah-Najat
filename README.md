@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafiullah Najat</h1>
 <h3 align="center">🚀 Frontend Developer | React Specialist</h3>
-<p>🚀 Passionate Frontend Developer specialized in React, focused on building modern, responsive, and user-friendly web applications.
-💡 I enjoy turning ideas into real-world projects with clean code and creative UI.
-🔥 Constantly learning, improving, and aiming to become a top-level Full Stack Developer.
+<p> Passionate Frontend Developer specialized in React, focused on building modern, responsive, and user-friendly web applications.
+I enjoy turning ideas into real-world projects with clean code and creative UI. Constantly learning, improving, and aiming to become a top-level Full Stack Developer.
 </p>
 
 <p align="center">

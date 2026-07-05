@@ -5,7 +5,7 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafiullah-Najat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rafiullah Najat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,swiper,react,git,github,npm,vscode" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiullah-Najat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiullah Najat&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">

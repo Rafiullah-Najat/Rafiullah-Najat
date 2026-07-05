@@ -10,9 +10,9 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-# 💻 Frontend Developer • ⚛️ React Developer
+### 💻 Frontend Developer • ⚛️ React Developer
 
 * 🔭 Currently: Building modern, responsive web applications and improving UI/UX skills.
 * 💻 Tech Stack: Specialized in React.js, JavaScript (ES6+), Tailwind CSS, and modern frontend tools.
@@ -65,21 +65,12 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 ---
 
+## 📊 GitHub Stats
+
 <!-- Stats + Commit UTC -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafiullah-Najat&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rafiullah-najat&theme=tokyonight&utcOffset=0" width="49%" />
-</p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiullah-Najat&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiullah-Najat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -105,6 +96,7 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 > Code. Learn. Build. Repeat. 🚀
 
 ---
+
 ## 🌐 Connect with me
 
 <p align="left">

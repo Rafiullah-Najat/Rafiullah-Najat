@@ -10,32 +10,22 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 ---
 
-## 🧑‍💻 About Me
+##🚀 About Me
 
-* 💻 Passionate Frontend Developer focused on modern UI
-* ⚛️ Specialized in React.js & building dynamic web apps
-* 🌱 Currently learning advanced concepts & performance optimization
-* 🎯 Goal: Become a top-level Full Stack Developer
-* ⚡ I love clean code & beautiful design
+#💻 Frontend Developer • ⚛️ React Developer
 
----
+* 🔭 Currently: Building modern, responsive web applications and improving UI/UX skills.
+* 💻 Tech Stack: Specialized in React.js, JavaScript (ES6+), Tailwind CSS, and modern frontend tools.
+* 🧠 Focus: Frontend Architecture, Performance Optimization, and clean, scalable UI design.
+* ⚙️ Philosophy: I enjoy turning complex ideas into simple, beautiful, and user-friendly interfaces.
+* 🌍 Goal: Open to freelance projects, remote roles, and impactful collaborations.
 
-## 🌐 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-<a href="mailto:your@email.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
-</a>
-</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,git,github,vscode" />
 </p>
 
@@ -65,11 +55,11 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafiullah-Najat&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiullah-Najat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -77,7 +67,7 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Rafiullah-Najat&theme=tokyonight" />
 </p>
 
 ---
@@ -90,16 +80,10 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 ---
 
-## ⚡ Fun Fact
-
-> "First, solve the problem. Then, write the code." 😄
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rafiullah-Najat&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -107,6 +91,18 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 💡 Quote
 
 > Code. Learn. Build. Repeat. 🚀
+
+---
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+<a href="mailto:your@email.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+</a>
+</p>
 
 ---
 

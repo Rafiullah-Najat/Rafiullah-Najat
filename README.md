@@ -100,10 +100,10 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/rafiullah-najat-47594036b" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
-<a href="mailto:your@email.com">
+<a href="rafiullahnajat2026@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>

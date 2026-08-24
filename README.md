@@ -44,15 +44,6 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 ---
 
-### 🔹 Admin Dashboard
-
-* 📊 Interactive dashboard with charts
-* ⚡ Fast and responsive design
-* 🔗 Live Demo: https://your-link.com
-* 📂 Repo: https://github.com/YOUR_USERNAME/project
-
----
-
 ## 📈 Contribution Journey
 
 <p align="center">
@@ -87,7 +78,6 @@ I enjoy turning ideas into real-world projects with clean code and creative UI. 
 
 * Advanced React Patterns
 * Performance Optimization
-* React Library(Next JS)
 
 ---
 
